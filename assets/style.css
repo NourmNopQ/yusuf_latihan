@@ -1,0 +1,56 @@
+.navbar-brand {
+    font-family: viga;
+    font-size: 32px;
+    text-shadow: 1px 1px 1px rgb(0,0,0,0.6);
+}
+
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 30px;
+}
+
+.nav-link:hover {
+    color: #0d6efd;
+}
+
+.button {
+    background-color: #0d6efd;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 30xp;
+    padding: 10xp 20xp;
+}
+
+.button:hover {
+    background-color: #fff;
+    color: #0d6efd;
+}
+
+.jumbotron {
+    background-image: url(img/jumbotron.webp);
+    height: 600px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .jumbotron .display-5 {
+    color: #fff;
+    margin-top: 150px;
+    margin-bottom: 30px;
+    font-weight: 200;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  }
+  
+  .jumbotron .display-5 span {
+    font-weight: 500;
+  }
+
+  .footer-brand {
+    font-family: viga;
+    font-size: 24px;
+    color: black;
+    text-shadow: 1px 1px 1px rgb(0,0,0,0.5);
+    text-decoration: none;
+   margin-right: 10px;
+  }
